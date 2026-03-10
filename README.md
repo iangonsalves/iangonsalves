@@ -1,16 +1,35 @@
-## Hi there 👋
+# Ian Gonsalves
 
-<!--
-**iangonsalves/iangonsalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and Full-Stack Developer focused on building scalable web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+Python | Django | PHP | Laravel | Node.js | REST APIs
+
+### Frontend
+React | JavaScript | HTML | CSS
+
+### Databases
+PostgreSQL | MySQL | MariaDB
+
+### DevOps / Tools
+Docker | Git | GitHub | CI/CD
+
+### Integrations
+Stripe API | Payment Processing
+
+## Featured Projects
+
+### E-Commerce Platform
+React + Laravel full-stack application with Stripe payments.
+
+### Restaurant Booking System
+Django backend web application with PostgreSQL database.
+
+### Portfolio Website
+Showcase of development projects and applications.
+
+## Links
+Portfolio: https://iangonsalves.github.io/portfolio-website  
+LinkedIn: https://www.linkedin.com/in/iangonsalves/
